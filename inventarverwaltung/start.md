@@ -1,0 +1,1 @@
+Power Apps App zur Verwaltung von Inventar
